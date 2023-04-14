@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50f26cd96559370498a6c009ed1d62ab, type: 3}
+  m_Name: pregunta2
+  m_EditorClassIdentifier: 
+  storyText: "\xBFcual de estos planetas estan dentro  del sistema solar?\n1. Marte\n2.
+    Luna\n3.Pluton\n recuerda una cosa ala hora de escapar elige la respuesta incorrecta
+    o moriras\n"
+  nextStates:
+  - {fileID: 11400000, guid: c93f95b604d6b374a9fa3ff93ac15265, type: 2}
+  - {fileID: 11400000, guid: 4bbcf21bb2e705f48b18788b7619fc1d, type: 2}
+  - {fileID: 11400000, guid: 65332f2e79e2211488791f6c825333e2, type: 2}
+  imagen: {fileID: 0}

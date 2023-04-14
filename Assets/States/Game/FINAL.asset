@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50f26cd96559370498a6c009ed1d62ab, type: 3}
+  m_Name: FINAL
+  m_EditorClassIdentifier: 
+  storyText: "Bien has llegado al final se que estas asustado  confundido de porque
+    estas aqui pero no es ninguna casualidad yo soy kriken la persona que a construido
+    todo esto para seres como tu que desprecian una vida por salvar la suya te voy
+    a dar 2 opciones para cruzar la salida,\nsimplemente escoge una puerta \n1.salida
+    \n2.muerte\n"
+  nextStates:
+  - {fileID: 11400000, guid: 423f897c678b42a4cbb82a6049e13b7c, type: 2}
+  - {fileID: 11400000, guid: 6d8e1b22472471b458a5811ba514f2c8, type: 2}
+  imagen: {fileID: 0}

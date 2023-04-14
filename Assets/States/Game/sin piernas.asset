@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50f26cd96559370498a6c009ed1d62ab, type: 3}
+  m_Name: sin piernas
+  m_EditorClassIdentifier: 
+  storyText: "sigues con vida pero sin piernas \nestas a 3 preguntas de salir vivo
+    a pesar de tu nueva discapacidad para andar dijo una voz  de fondo\n\xBFcomo
+    dice la cancion de Argentina?\n1.perico dime lo que se siente\n2.muchachos ahora
+    nos volvimos a ilusionar\n"
+  nextStates:
+  - {fileID: 11400000, guid: 0aca856fcbd50b14e9d9318121721712, type: 2}
+  - {fileID: 11400000, guid: 64cbfd8a1dba4b140a61ccc1e5e1e343, type: 2}
+  imagen: {fileID: 0}

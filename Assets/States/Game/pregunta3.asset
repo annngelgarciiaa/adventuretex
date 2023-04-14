@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50f26cd96559370498a6c009ed1d62ab, type: 3}
+  m_Name: pregunta3
+  m_EditorClassIdentifier: 
+  storyText: "biennn sigues vivo y completo  y estas a 3 preguntas de volver a ver
+    a tu familia y de saber que haces en este oscuro lugar \n\n\xBFque pelicula gano
+    el goya en 2019?\n\n1.El reino\n2.Campeones\n\n\n\n\n\n\n\n\n\n"
+  nextStates:
+  - {fileID: 11400000, guid: 2020ed9a3e82bdf4393008da5d7ee70c, type: 2}
+  - {fileID: 11400000, guid: 64cbfd8a1dba4b140a61ccc1e5e1e343, type: 2}
+  imagen: {fileID: 0}

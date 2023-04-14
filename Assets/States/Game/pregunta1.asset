@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50f26cd96559370498a6c009ed1d62ab, type: 3}
+  m_Name: pregunta1
+  m_EditorClassIdentifier: 
+  storyText: "despiertas en un sotano completamente abandonado donde solo hay 2 opciones
+    en una seguiras vivo en la otra solo quedaran tus restos con el tiempo ya que
+    seras deborado por unos salvajes tigres \n\n\xBFCUAL ES EL RESULTADO DE ESTA
+    OPERACION? \n(75 + 136)\ntu decides 1 o 2\n1. 211\n2.213"
+  nextStates:
+  - {fileID: 11400000, guid: 0e47feebf91fd274e837fb8537d25e64, type: 2}
+  - {fileID: 11400000, guid: c7adefc2599d5be48a21e3a11945d78e, type: 2}
